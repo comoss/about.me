@@ -1,33 +1,68 @@
+
+
 body {
-	/*background:url("http://69hdwallpapers.com/wp-content/uploads/2014/04/palace-seoul-south-korea-wallpapers.jpg") 
-	no-repeat ; */
+	/*background:url("/Users/codymoss/Desktop/about.me/12b.jpg") 
+	no-repeat;*/
 }
 
-header
+/*.nav {
+	height: 3em;
+	background-color: #1f3136;
+	right: 0;
+	left: 0;
+	top: 0; */
+}
 
 .mini {
 	 display: inline-block;
-	 height: 38px;
-	 width: 38px;
+	 height: 70px;
+	 width: 70px;
 	 /* color:; */
-	 background-color: #eee
+	 background-color: black;
+}
+
+.mini img {
+	width: 100%;
+	height: auto;
 }
 
 .box {
 	width:311px;
 	float: right;
-	background-color:rgba(0, 0, 0, 0.180392);
+	background-color: rgba(0, 0, 0, 0.180392);
 	color: green;
 	margin-right: 2em;
 	padding: .75em;
 	font-family: tahoma; 
 	display: inline-block;
+	margin-top: 1em;
+	text-align: center;
+	
 }
 
-button {
-
+.square {
+	height: 50px;
+	width: 50px;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	float: left;
+}
+.rectangle {
+	height: 50px;
+	width: 100px;
+	margin: 0;
+	display: inline-block;
+	float: left;
+}
+.fa fa facebook {
+	color:black;
 }
 
+ i {
+ 	padding: .25em;
+
+ }
 	* {
    border: 1px solid red !important;
 }
