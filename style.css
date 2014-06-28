@@ -1,43 +1,38 @@
 
-
-body {
-	/*background:url("/Users/codymoss/Desktop/about.me/12b.jpg") 
-	no-repeat;*/
+html { 
+  background: url("http://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Seattle_Skyline_from_Rizal_Park.jpg/1600px-Seattle_Skyline_from_Rizal_Park.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+
+
 
 /*.nav {
 	height: 3em;
 	background-color: #1f3136;
 	right: 0;
 	left: 0;
-	top: 0; */
-}
-
-.mini {
-	 display: inline-block;
-	 height: 70px;
-	 width: 70px;
-	 /* color:; */
-	 background-color: black;
-}
+	top: 0; 
+} */
 
 .mini img {
-	width: 100%;
-	height: auto;
-}
+	
+} 
 
 .box {
 	width:311px;
-	float: right;
+	float: left;
 	background-color: rgba(0, 0, 0, 0.180392);
-	color: green;
-	margin-right: 2em;
+	color: white;
+	margin-left: 3em;
 	padding: .75em;
 	font-family: tahoma; 
-	display: inline-block;
-	margin-top: 1em;
+	/*display: inline-block;*/
+	margin-top: 2.5em;
 	text-align: center;
-	
+	border-radius: 1em;
 }
 
 .square {
@@ -55,14 +50,12 @@ body {
 	display: inline-block;
 	float: left;
 }
-.fa fa facebook {
-	color:black;
-}
 
  i {
- 	padding: .25em;
-
+ border-radius: 10px;
+ padding: .09em;
  }
-	* {
+
+* {
    border: 1px solid red !important;
 }
