@@ -1,0 +1,33 @@
+body {
+	/*background:url("http://69hdwallpapers.com/wp-content/uploads/2014/04/palace-seoul-south-korea-wallpapers.jpg") 
+	no-repeat ; */
+}
+
+header
+
+.mini {
+	 display: inline-block;
+	 height: 38px;
+	 width: 38px;
+	 /* color:; */
+	 background-color: #eee
+}
+
+.box {
+	width:311px;
+	float: right;
+	background-color:rgba(0, 0, 0, 0.180392);
+	color: green;
+	margin-right: 2em;
+	padding: .75em;
+	font-family: tahoma; 
+	display: inline-block;
+}
+
+button {
+
+}
+
+	* {
+   border: 1px solid red !important;
+}
