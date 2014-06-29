@@ -36,6 +36,8 @@ body {
 	margin-left: auto;
 	padding: .75em;
 	font-family: sans-serif; 
+	font-size: .85em;
+	line-height: 1.65em;
 	margin-top: 3.5em;
 	margin-left: 3em;
 	text-align: center;
@@ -43,21 +45,6 @@ body {
 	margin-bottom: 15em;
 }
 
-.square {
-	height: 50px;
-	width: 50px;
-	margin: 0px;
-	padding: 0px;
-	display: inline-block;
-	float: left;
-}
-.rectangle {
-	height: 50px;
-	width: 100px;
-	margin: 0;
-	display: inline-block;
-	float: left;
-}
 
  i {
  border-radius: 10px;
