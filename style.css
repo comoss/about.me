@@ -23,6 +23,11 @@ body {
 	
 } 
 
+ .h1 {
+	font-size: 50px;
+	font-family: sans-serif;
+} 
+
 .box {
 	width:311px;
 	float: left;
@@ -30,12 +35,12 @@ body {
 	color: white;
 	margin-left: auto;
 	padding: .75em;
-	font-family: tahoma; 
-	/*display: inline-block;*/
-	margin-top: 2.5em;
+	font-family: sans-serif; 
+	margin-top: 3.5em;
+	margin-left: 3em;
 	text-align: center;
 	border-radius: 1em;
-	margin-bottom: 2em;
+	margin-bottom: 15em;
 }
 
 .square {
@@ -67,15 +72,14 @@ a:hover {
 }
 
 .footer {
-	width: 98%;
+	width: 100%;
 	background-color: white;
 	clear: both;
-	padding: 1em;
-	border-radius: 1em;
-	float: left;
-	margin-right: 2px;
 	right: 0;
 	left: 0;
+	bottom: 0;
+	padding-bottom: 4em;
+	padding-top: 2em;
 }
 /* {
    border: 1px solid red !important;
