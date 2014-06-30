@@ -107,3 +107,8 @@ a:hover {
 	}
 }
 
+@media all and (max-width:700px) and (min-width: 500px) {
+	html {
+		background: url("https://lh3.googleusercontent.com/-nR7zHCJnmW0/U5d_xRfNXUI/AAAAAAAAlQM/edfuj_QShlc/w2695-h1797-no/IMG_5918.JPG") no-repeat left left fixed;
+		}
+
