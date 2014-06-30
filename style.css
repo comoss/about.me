@@ -1,6 +1,6 @@
 
 html { 
-  background: url("http://miriadna.com/desctopwalls/images/max/Sun-rays-in-forest.jpg") no-repeat center center fixed; 
+  background: url("http://uploads2.wikiart.org/images/vincent-van-gogh/the-starry-night-1889(1).jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -26,11 +26,11 @@ img {
 	height: auto;
 	float: left;
 	background-color: rgba(0, 0, 0, 0.180392);
-	color: white;
+	color: yellow;
 	margin-left: auto;
 	padding: .75em;
-	font-family: sans-serif; 
-	font-size: .9em;
+	font-family: tahoma; 
+	font-size: 1em;
 	line-height: 1.65em;
 	margin-top: 3.5em;
 	margin-left: 3em;
@@ -41,7 +41,7 @@ img {
 }
 
  a {
- 	color: white;
+ 	color: yellow;
  }
 a:hover {
 	color:#383838;
@@ -58,26 +58,21 @@ a:hover {
 	padding-top: 2em;
 	text-align: center;
 	box-shadow: 0em -3em 3em rgba(0, 0, 0, 0.30);
-	border-top-left-radius: .25em;
-	border-top-right-radius: .25em;
 }
 
 .mini {
 	height: auto;
 	width:  15em;
-	border: .125em, solid, black;
 	display: inline-block;
 	margin: 1.25em;
 	z-index: 1;
 }
 
-<<<<<<< HEAD
 .buttons {
 	margin-right: .125em;
 	margin-left: .125em;
 }
 
-=======
 .space {
 	margin: .3em;
 }
@@ -101,5 +96,3 @@ a:hover {
 	}
 }
 
-
->>>>>>> gh-pages
