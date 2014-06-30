@@ -11,17 +11,10 @@ body {
 	margin: 0em;
 }
 
-/*.nav {
-	height: 3em;
-	background-color: #1f3136;
-	right: 0;
-	left: 0;
-	top: 0; 
-} */
-
-.mini img {
-	
-} 
+img {
+	max-width: 15em;
+	max-height: 15em;
+}
 
  .h1 {
 	font-size: 50px;
@@ -46,12 +39,6 @@ body {
 	margin-bottom: 15em;
 }
 
-
- i {
- border-radius: 10px;
- padding: .09em;
- } 
-
  a {
  	color: white;
  }
@@ -70,9 +57,26 @@ a:hover {
 	padding-top: 2em;
 	text-align: center;
 	box-shadow: 0em -3em 3em rgba(0, 0, 0, 0.30);
+	border-top-left-radius: .25em;
+	border-top-right-radius: .25em;
 }
 
+.mini {
+	height: auto;
+	width:  15em;
+	border: .125em, solid, black;
+	display: inline-block;
+	margin: 1.25em;
+	z-index: 1;
+}
+img:hover {
+	color:rgba(0, 0, 0, 0.180392);
+}
 
-/* {
+	
+
+}
+
+ * {
    border: 1px solid red !important;
 }
