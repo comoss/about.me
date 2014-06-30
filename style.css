@@ -79,8 +79,9 @@ a:hover {
 
 @media all and (max-width:800px) and (min-width: 300px) {
 	html {
-		background: url("https://lh5.googleusercontent.com/-NCy0qb9_jkI/U5LQh9om0sI/AAAAAAAAkiI/MVmKyLO-RLc/w1840-h1226-no/IMG_5911.JPG") no-repeat center center fixed;
+		background: url("https://lh3.googleusercontent.com/-nR7zHCJnmW0/U5d_xRfNXUI/AAAAAAAAlQM/edfuj_QShlc/w1840-h1226-no/IMG_5918.JPG") no-repeat center center fixed;
 	}
+	
 	.box {
 		width: 100%;
 		margin-left: 0;
