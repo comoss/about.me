@@ -30,13 +30,14 @@ img {
 	margin-left: auto;
 	padding: .75em;
 	font-family: sans-serif; 
-	font-size: .85em;
+	font-size: .9em;
 	line-height: 1.65em;
 	margin-top: 3.5em;
 	margin-left: 3em;
 	text-align: center;
 	border-radius: 1em;
 	margin-bottom: 15em;
+	padding-bottom: 1.5em;
 }
 
  a {
@@ -82,12 +83,14 @@ a:hover {
 		left: 0;
 		padding-right: 0;
 		padding-left: 0;
-		font-size: 1em;
+		padding-bottom: 1em;
+		
 		/*how to change font awesome specifically within media queries?? */
 	}
 	p {
 		margin-left:7px;
 		margin-right:7px; 
+		font-size: 1em;
 	}
 }
 
