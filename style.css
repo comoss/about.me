@@ -83,8 +83,12 @@ a:hover {
 		padding-right: 0;
 		padding-left: 0;
 		font-size: 1em;
-		border: 3px;
 		/*how to change font awesome specifically within media queries?? */
 	}
+	p {
+		margin-left:7px;
+		margin-right:7px; 
+	}
+}
 
 
