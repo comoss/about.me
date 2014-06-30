@@ -1,6 +1,6 @@
 
 html { 
-  background: url("http://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Seattle_Skyline_from_Rizal_Park.jpg/1600px-Seattle_Skyline_from_Rizal_Park.jpg") no-repeat center center fixed; 
+  background: url("http://miriadna.com/desctopwalls/images/max/Sun-rays-in-forest.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -30,13 +30,14 @@ img {
 	margin-left: auto;
 	padding: .75em;
 	font-family: sans-serif; 
-	font-size: .85em;
+	font-size: .9em;
 	line-height: 1.65em;
 	margin-top: 3.5em;
 	margin-left: 3em;
 	text-align: center;
 	border-radius: 1em;
 	margin-bottom: 15em;
+	padding-bottom: 1.5em;
 }
 
  a {
@@ -70,8 +71,35 @@ a:hover {
 	z-index: 1;
 }
 
+<<<<<<< HEAD
 .buttons {
 	margin-right: .125em;
 	margin-left: .125em;
 }
 
+=======
+.space {
+	margin: .3em;
+}
+
+@media all and (max-width:800px) and (min-width: 300px) {
+	.box {
+		width: 100%;
+		margin-left: 0;
+		right: 0;
+		left: 0;
+		padding-right: 0;
+		padding-left: 0;
+		padding-bottom: 1em;
+		
+		/*how to change font awesome specifically within media queries?? */
+	}
+	p {
+		margin-left:7px;
+		margin-right:7px; 
+		font-size: 1em;
+	}
+}
+
+
+>>>>>>> gh-pages
