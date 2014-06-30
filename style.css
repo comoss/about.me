@@ -77,6 +77,10 @@ a:hover {
 	margin: .3em;
 }
 
+.fa {
+	font-size: 3em;
+}
+
 @media all and (max-width:700px) and (min-width: 300px) {
 	html {
 		background: url("https://lh3.googleusercontent.com/-nR7zHCJnmW0/U5d_xRfNXUI/AAAAAAAAlQM/edfuj_QShlc/w2695-h1797-no/IMG_5918.JPG") no-repeat right center fixed;
@@ -96,6 +100,10 @@ a:hover {
 		margin-left:7px;
 		margin-right:7px; 
 		font-size: 1em;
+	}
+
+	.fa {
+		font-size: 4em;
 	}
 }
 
