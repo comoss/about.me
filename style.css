@@ -69,14 +69,8 @@ a:hover {
 	margin: 1.25em;
 	z-index: 1;
 }
-img:hover {
-	color:rgba(0, 0, 0, 0.180392);
+
+.space {
+	margin: .3em;
 }
 
-	
-
-}
-
- * {
-   border: 1px solid red !important;
-}
