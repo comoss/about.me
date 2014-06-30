@@ -70,7 +70,11 @@ a:hover {
 	padding-top: 2em;
 	text-align: center;
 	box-shadow: 0em -3em 3em rgba(0, 0, 0, 0.30);
+}
 
+.butttons {
+	width: 42px;
+	height: 43px;
 }
 /* {
    border: 1px solid red !important;
