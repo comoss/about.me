@@ -81,20 +81,24 @@ a:hover {
 	font-size: 3em;
 }
 
-@media all and (max-width:500px) and (min-width: 300px) {
+@media all and (max-width:600px) and (min-width: 300px) {
 	html {
-		background: url("https://lh3.googleusercontent.com/-nR7zHCJnmW0/U5d_xRfNXUI/AAAAAAAAlQM/edfuj_QShlc/w2695-h1797-no/IMG_5918.JPG") no-repeat right center fixed;
+		background: url("https://lh4.googleusercontent.com/-GUc7OWekW6E/U3D3-LUGCKI/AAAAAAAAUIU/gPXa98WB3SQ/w1248-h1226-no/20131228_135032+%25282%2529.jpg") no-repeat top center fixed;
+		background-size: 100%;
+		background-color: #333;
 }
 	.box {
 		width: 100%;
 		margin-left: 0;
+		margin-top: 20em;
 		right: 0;
 		left: 0;
 		padding-right: 0;
 		padding-left: 0;
 		padding-bottom: 1em;
+		border-radius: 0em;
 		
-		/*how to change font awesome specifically within media queries?? */
+		
 	}
 	p {
 		margin-left:7px;
@@ -107,7 +111,7 @@ a:hover {
 	}
 }
 
-@media all and (max-width:800px) and (min-width: 500px) {
+@media all and (max-width:1000px) and (min-width: 500px) {
 	html {
 		background: url("https://lh3.googleusercontent.com/-KkHDE6eYOVM/U5eLM6GPPsI/AAAAAAAAnIw/JSijcqTTmwU/w1840-h1226-no/IMG_1260.JPG") no-repeat top center fixed;
 		background-size: 100%;
