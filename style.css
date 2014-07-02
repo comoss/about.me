@@ -81,7 +81,7 @@ a:hover {
 	font-size: 3em;
 }
 
-@media all and (max-width:600px) and (min-width: 300px) {
+@media all and (max-width:549px) and (min-width: 300px) {
 	html {
 		background: url("https://lh4.googleusercontent.com/-GUc7OWekW6E/U3D3-LUGCKI/AAAAAAAAUIU/gPXa98WB3SQ/w1248-h1226-no/20131228_135032+%25282%2529.jpg") no-repeat top center fixed;
 		background-size: 100%;
@@ -111,7 +111,7 @@ a:hover {
 	}
 }
 
-@media all and (max-width:1000px) and (min-width: 500px) {
+@media all and (max-width:1000px) and (min-width: 550px) {
 	html {
 		background: url("https://lh3.googleusercontent.com/-KkHDE6eYOVM/U5eLM6GPPsI/AAAAAAAAnIw/JSijcqTTmwU/w1840-h1226-no/IMG_1260.JPG") no-repeat top center fixed;
 		background-size: 100%;
