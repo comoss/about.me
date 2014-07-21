@@ -12,8 +12,8 @@ body {
 }
 
 img {
-	max-width: 15em;
-	max-height: 15em;
+	max-width: 25em;
+	max-height: 25em;
 }
 
  .h1 {
@@ -58,8 +58,9 @@ a:hover {
 	padding-top: 2em;
 	text-align: center;
 	box-shadow: 0em -3em 3em rgba(0, 0, 0, 0.40);
-	height:auto;
+	height:35em;
 	font-size: 1.25em;
+
 }
 
 .mini {
@@ -113,6 +114,17 @@ a:hover {
 	}
 }
 
+.shot {
+	float: left;
+	margin-left: 3em;
+	margin-top: 1em;
+}
+
+.h2 {
+	float: left;
+	width: 50%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
 @media all and (max-width:1000px) and (min-width: 501px) {
 	html {
 		background: url("https://lh3.googleusercontent.com/-KkHDE6eYOVM/U5eLM6GPPsI/AAAAAAAAnIw/JSijcqTTmwU/w1840-h1226-no/IMG_1260.JPG") no-repeat top center fixed;
@@ -121,3 +133,6 @@ a:hover {
 	 }
 		}
 
+* {
+   border: 1px solid red !important;
+}
